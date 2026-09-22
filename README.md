@@ -784,6 +784,6 @@ Triggering physical network isolation via standard pfSense API tools (`easyrule`
 This project wasn't built by splitting tasks into boring, isolated corporate silos. It is the result of seamless, joint engineering collaboration, late-night brainstorming, and intensive paired programming.
 
 * **[@LikeCiastka](https://github.com/LikeCiastka)**
-* **[@Kuba290](https://github.com/Kuba290)*
+* **[@Kuba290](https://github.com/Kuba290)**
 
 Together, we co-engineered the entire architecture—from deploying the virtualized hypervisor infrastructure and hardening pfSense to writing the multi-threaded Python backend and developing the psychoacoustic mapping algorithms. We successfully combined networking, real-time OS concepts, and a healthy dose of madness into one cohesive platform. Because cybersecurity should be secure, but it should also be fun.
